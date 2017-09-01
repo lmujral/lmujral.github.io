@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f10b1ab-3f61-4a51-bb13-b4ae0f7b3c96" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="0f10b1ab-3f61-4a51-bb13-b4ae0f7b3c96" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +29,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="746" column="21" lean-forward="true" selection-start-line="746" selection-start-column="21" selection-end-line="746" selection-end-column="21" />
+            <state relative-caret-position="302">
+              <caret line="95" column="5" lean-forward="true" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -70,6 +68,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>avatar</find>
+      <find>image</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -623,8 +622,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="746" column="21" lean-forward="true" selection-start-line="746" selection-start-column="21" selection-end-line="746" selection-end-column="21" />
+        <state relative-caret-position="302">
+          <caret line="95" column="5" lean-forward="true" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
           <folding />
         </state>
       </provider>
