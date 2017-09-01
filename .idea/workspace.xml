@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f10b1ab-3f61-4a51-bb13-b4ae0f7b3c96" name="Default" comment="" />
+    <list default="true" id="0f10b1ab-3f61-4a51-bb13-b4ae0f7b3c96" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/professional_pic_copy.jpg" afterPath="$PROJECT_DIR$/images/prof.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +19,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="50" lean-forward="true" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+            <state relative-caret-position="450">
+              <caret line="30" column="83" lean-forward="true" selection-start-line="30" selection-start-column="83" selection-end-line="30" selection-end-column="83" />
               <folding />
             </state>
           </provider>
@@ -33,14 +36,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="professional_pic_copy.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/professional_pic_copy.jpg">
+      <file leaf-file-name="prof.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/prof.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="avatar.jpg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="avatar.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/avatar.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -419,20 +422,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="50" lean-forward="true" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/professional_pic_copy.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -440,6 +430,19 @@
     <entry file="file://$PROJECT_DIR$/images/avatar.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/prof.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="83" lean-forward="true" selection-start-line="30" selection-start-column="83" selection-end-line="30" selection-end-column="83" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
