@@ -724,13 +724,13 @@
 		transition: opacity 1s ease, transform 1s ease;
 	}
 
-		#main .avatar {
+		#main .image {
 			position: relative;
 			display: block;
 			margin-bottom: 1.5em;
 		}
 
-			#main .avatar img {
+			#main .image img {
 				display: block;
 				margin: 0 auto;
 				border-radius: 100%;
@@ -738,7 +738,7 @@
 				width: 37.5%;
 			}
 
-			#main .avatar:before {
+			#main .image:before {
 				content: '';
 				display: block;
 				position: absolute;
@@ -758,7 +758,7 @@
 				padding: 4em 2em 2.5em 2em ;
 			}
 
-				#main .avatar:before {
+				#main .image:before {
 					left: -2em;
 					width: calc(100% + 4em);
 				}
