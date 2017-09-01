@@ -33,14 +33,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="professional_pic_copy.jpg" pinned="false" current-in-tab="true">
+      <file leaf-file-name="professional_pic_copy.jpg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/images/professional_pic_copy.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="avatar.jpg" pinned="false" current-in-tab="false">
+      <file leaf-file-name="avatar.jpg" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/images/avatar.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -419,16 +419,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/avatar.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -437,7 +427,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/images/professional_pic_copy.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/avatar.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
