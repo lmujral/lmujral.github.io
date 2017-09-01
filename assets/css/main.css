@@ -702,7 +702,7 @@
 
 	#main {
 		position: relative;
-		max-width: 100%;
+		max-width: 50%;
 		min-width: 27em;
 		padding: 4.5em 3em 3em 3em ;
 		background: #ffffff;
@@ -735,6 +735,7 @@
 				margin: 0 auto;
 				border-radius: 100%;
 				box-shadow: 0 0 0 1.5em #ffffff;
+				width: 37.5%;
 			}
 
 			#main .avatar:before {
@@ -772,6 +773,12 @@
 			transform: rotateX(15deg);
 		}
 
+		.para{
+			width: 70%;
+			text-align: center;
+			margin-left: 15.5%;
+			margin-right: 34%;
+		}
 /* Footer */
 
 	#footer {
